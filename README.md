@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my GitHub page 👩‍💻Feel free to look at some projects I've been working on.
+
+- 🌱 I’m currently learning: React / PHP / Wordpress Development
+- 👯 I’m looking to collaborate on: anything that will help me become a better developer 😄
+- 📫 How to reach me: ✉️ maja.ditrtova@outlook.com
+- 😄 Pronouns: she/her
 
 <!--
 **MajaDit/MajaDit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
