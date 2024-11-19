@@ -2,11 +2,11 @@
 
 - 🌱 I’m currently learning: Git/JS/React
 - 👯 I’m looking to collaborate on: anything that will help me become a better developer 😄
-- 📫 How to reach me: ✉️ maja.ditrtova@outlook.com
+- 📫 How to reach me: ✉️ maja.heartland@outlook.com
 - 😄 Pronouns: she/her
 
 <!--
-**MajaDit/MajaDit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MajaHeartland/MajaHeartland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
