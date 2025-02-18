@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my GitHub page 👩‍💻Feel free to have a look at projects I've been working on.
 
-- 🌱 I’m currently learning: Git/JS/React
+- 🌱 I’m currently learning: Git/JS/Advanced CSS/Three.js
 - 👯 I’m looking to collaborate on: anything that will help me become a better developer 😄
 - 📫 How to reach me: ✉️ maja.heartland@outlook.com
 - 😄 Pronouns: she/her
